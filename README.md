@@ -12,6 +12,10 @@ A Java program to manage and calculate student grades.
 ## 🚀 How to Run
 
 ```bash
+javac StudentGradeManager.java
+java StudentGradeManager
+```
+
 ## 🛠️ Built With
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
